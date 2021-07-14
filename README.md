@@ -1,1 +1,1 @@
-# kafka-ecommerce
+# Curso Kafka da plataforma Alura
